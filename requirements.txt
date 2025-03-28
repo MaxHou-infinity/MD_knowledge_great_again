@@ -1,0 +1,9 @@
+streamlit==1.32.2
+requests==2.31.0
+beautifulsoup4==4.12.3
+markdown==3.5.2
+html2text==2024.2.26
+urllib3==2.3.0
+pathlib==1.0.1
+tqdm==4.66.1
+openai==1.68.2
