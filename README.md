@@ -153,3 +153,5 @@ pip install -r requirements.txt
 ## 许可证
 
 MIT License 
+
+Last reviewed: 2026-10-21
