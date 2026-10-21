@@ -155,3 +155,5 @@ pip install -r requirements.txt
 MIT License 
 
 > Feedback and suggestions are welcome via Issues.
+
+Last reviewed: 2026-10-21
