@@ -153,3 +153,5 @@ pip install -r requirements.txt
 ## 许可证
 
 MIT License 
+
+> Feedback and suggestions are welcome via Issues.
